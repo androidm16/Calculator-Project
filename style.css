@@ -1,0 +1,51 @@
+.body{
+    background-image: url(./thumb-1920-327002.jpg);
+    width: 
+}
+/* Styling for the headeing */
+.h1{
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    font-size: 80px;
+    padding-bottom: 80px;
+}
+
+/* Styling for The output section */
+#output{
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 150px;
+    width: 70%;
+    margin: auto;
+    background-color: white;
+    font-size: 80px;
+}
+
+.container{
+    border: solid black;
+    border-radius: 5px;
+    width: 40%;
+    height: 65%;
+    padding-top: 40px;
+    background-color: rgb(70, 66, 67);
+}
+
+.row{
+    justify-content: center;
+    margin-left: 40px;
+    margin-top: 20px;
+
+}
+
+.btn{
+    font-weight: bolder;
+    height: 40px;
+    width: 100px;
+    justify-content: space-between;
+}
+.btn-warning{
+   width: 50%; 
+   height: 60px;
+   
+}
